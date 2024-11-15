@@ -29,11 +29,11 @@ I’m a tech enthusiast with a passion for problem-solving, competitive programm
 
 ### 🏆 My DSA and Competitive Programming Profiles:
 
-- **[Codeforces](https://codeforces.com/profile/mamun700263)** (Problem count: 230+, Rating: 1500+)  
-- **[CodeChef](https://www.codechef.com/users/mamun700263)** (Problem count: 150+, Rating: 1700+)  
-- **[LeetCode](https://leetcode.com/u/mamun700263)** (Problems solved: 500+, Top 15%)  
-- **[GeeksforGeeks](https://www.geeksforgeeks.org/user/mamun700263)** (Completed 50+ challenges)  
-- **[Codestudio](https://www.naukri.com/code360/profile/ba421e8d-d07a-4830-a281-f9283e8c5a1e)** (Participating in contests and problems regularly)  
+- **[Codeforces](https://codeforces.com/profile/mamun700263) 
+- **[CodeChef](https://www.codechef.com/users/mamun700263)
+- **[LeetCode](https://leetcode.com/u/mamun700263)
+- **[GeeksforGeeks](https://www.geeksforgeeks.org/user/mamun700263) 
+- **[Codestudio](https://www.naukri.com/code360/profile/ba421e8d-d07a-4830-a281-f9283e8c5a1e)  
 
 ---
 
