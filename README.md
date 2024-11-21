@@ -43,7 +43,7 @@ I’m a tech enthusiast with a passion for problem-solving, competitive programm
 - **Databases**: MySQL, MongoDB  
 - **Tools & Technologies**: Git, Docker, REST APIs, CI/CD  
 - **Competitive Programming**: Problem-solving, Data Structures, Algorithms  
-- **Other Skills**: System Design, Cloud Computing (AWS, Azure)
+
 
 ---
 
