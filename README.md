@@ -1,57 +1,42 @@
+## 👋 Hi, I'm Md Abdullah Al Mamun
 
-# 👋 Hello, I'm Mamun!
-
-### 👀 About Me:
-I’m a tech enthusiast with a passion for problem-solving, competitive programming, and web development. I enjoy building web applications, diving deep into algorithms, and contributing to open-source projects. Always eager to tackle new challenges and learn cutting-edge technologies!
-
----
-
-### 🌱 Currently Learning:
-- Advanced algorithms and data structures for competitive programming  
-- Backend development with Django and Django Rest Framework  
-- Sharpening problem-solving skills on various coding platforms  
+### 🧠 About Me
+I'm a backend-focused Computer Science student with strong skills in **Python**, **Django**, **Web Scraping**, and **Competitive Programming**.  
+Currently working as an intern at a UK-based startup as a **Backend Developer & Data Analyst**.
 
 ---
 
-### 💞️ Looking to Collaborate On:
-- Open-source projects in Python and C++  
-- Competitive programming practice groups or contests  
-- Innovative web application projects using modern frameworks  
+### 🔧 Tech Stack
+- **Languages**: Python, C, C++, JavaScript  
+- **Frameworks**: Django, Django REST Framework, Flask  
+- **Databases**: MySQL, MongoDB (PyMongo)  
+- **Web Scraping**: BeautifulSoup, Scrapy, Selenium  
+- **Tools**: " " 
 
 ---
 
-### 📫 How to Reach Me:
+### 🚀 Projects
+- 📚 **Ghor School** – A Django-based course platform with REST APIs and authentication  
+- 🛍️ **Amazon Scraper (WIP)** – Extracts product titles, prices, descriptions & URLs with Selenium  
+- 🎬 **IMDb Top 250 Scraper (WIP)** – Scrapes movie data (title, year, rating, director, genres) using Selenium + XPath  
+- 📖 **Books to Scrape (BeautifulSoup)** – Extracts title, price, rating, image URL, availability → saves as CSV/JSON/Excel  
+
+---
+
+### 🏆 Competitive Programming
+- ✅ Solved **1000+ problems** on:
+  - [Codeforces](https://codeforces.com/profile/mamun700263)  
+  - [CodeChef](https://www.codechef.com/users/mamun700263)  
+  - [LeetCode](https://leetcode.com/u/mamun700263)  
+  - [GeeksforGeeks](https://www.geeksforgeeks.org/user/mamun700263)  
+- 🥉 Placed **3rd** in university programming contest  
+- 🤝 Participated in **ICPC Dhaka Regional 2024**  
+
+---
+
+### 📫 Contact
 - **GitHub**: [mamun700263](https://github.com/mamun700263)  
-- **Email**: [mamun700263](mailto:mamun700263.com)  
-- **LinkedIn**: [MD Abdullah All Mamun](https://www.linkedin.com/in/md-abdullah-all-mamun/)  
+- **LinkedIn**: [Md Abdullah All Mamun](https://www.linkedin.com/in/md-abdullah-all-mamun)  
+- **Email**: mamun700263@gmail.com  
 
 ---
-
-### 🏆 My DSA and Competitive Programming Profiles:
-
-- **[Codeforces](https://codeforces.com/profile/mamun700263) 
-- **[CodeChef](https://www.codechef.com/users/mamun700263)
-- **[LeetCode](https://leetcode.com/u/mamun700263)
-- **[GeeksforGeeks](https://www.geeksforgeeks.org/user/mamun700263) 
-- **[Codestudio](https://www.naukri.com/code360/profile/ba421e8d-d07a-4830-a281-f9283e8c5a1e)  
-
----
-
-### 🔧 Skills:
-- **Languages**: Python, C++, JavaScript  
-- **Web Development**: Django, Flask, Node.js  
-- **Databases**: MySQL, MongoDB  
-- **Tools & Technologies**: Git, Docker, REST APIs, CI/CD  
-- **Competitive Programming**: Problem-solving, Data Structures, Algorithms  
-
-
----
-
-### 😄 Pronouns:
-He/Him  
-
----
-
-### ⚡ Fun Fact:
-When I’m not coding, I’m exploring chess strategies, solving puzzles, or diving into science fiction novels. I believe every problem has a creative solution—you just need the right mindset and tools to find it!
-
