@@ -34,14 +34,6 @@ Currently grinding as a **Backend Developer & Data Analyst Intern** at a UK-base
 
 ---
 
-### 💼 Current Goals
-- Master **Pydantic**, **Scrapy**, and **React** to become a full-stack beast  
-- Manage university project "**CCN UST - Dev Board**" as Project Lead (Django + React)  
-- Build a **bulletproof scraping framework** with logging, proxy rotation, and API export  
-- Hit peak fitness for **sweeper-keeper** role in varsity ⚽ + long-term MMA goals 🥊
-
----
-
 ### 📫 Let’s Connect
 - **GitHub**: [@mamun700263](https://github.com/mamun700263)  
 - **LinkedIn**: [Md Abdullah Al Mamun](https://www.linkedin.com/in/md-abdullah-all-mamun)  
