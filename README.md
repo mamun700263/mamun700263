@@ -1,72 +1,107 @@
-# 👋 Hey, I'm Md Abdullah Al Mamun
+<h1 align="center">Hey 👋 I'm Md Abdullah Al Mamun</h1>
 
-### 💥 Backend Architect in Progress | Full-Stack Dev | ICPC Competitor
-
-I'm a relentless Computer Science student on a mission to break into the **top 0.0001%** of developers.  
-Currently shipping production-grade code as a **Backend Developer & Data Analyst Intern** at a UK-based startup.  
-I build systems that scale, scrape data that matters, and lead dev teams with precision.
+<p align="center">
+  <b>Backend Architect in Progress | Full-Stack Dev | ICPC Competitor</b><br>
+  <i>I don’t just code — I ship, lead, and level up daily.</i>
+</p>
 
 ---
 
-### 🧰 Tech Arsenal
+<p align="center">
+  <a href="https://github.com/mamun700263">
+    <img src="https://img.shields.io/github/followers/mamun700263?label=Follow&style=social" alt="GitHub followers">
+  </a>
+  <a href="https://www.linkedin.com/in/md-abdullah-all-mamun/">
+    <img src="https://img.shields.io/badge/LinkedIn-md--abdullah--al--mamun-blue?logo=linkedin&style=flat-square" alt="LinkedIn">
+  </a>
+  <a href="mailto:mamun700263@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-mamun700263@gmail.com-red?logo=gmail&style=flat-square" alt="Gmail">
+  </a>
+</p>
+
+---
+
+## 🚀 About Me
+
+I'm a **Computer Science student** on a mission to break into the **top 0.0001%** of devs.  
+Currently shipping production-grade code as a **Backend Developer & Data Analyst Intern** at a UK-based startup.
+
+- 🔭 Building: Full-stack web apps that solve real problems  
+- 🎯 Mastering: Django, React.js, Pydantic, Web Scraping, Clean Architecture  
+- 🧠 Mentality: Outwork everyone. Lead like a dev. Think like an architect.
+
+---
+
+## 🛠️ Tech Arsenal
 
 **Languages:**  
-`Python` | `C` | `C++` | `JavaScript`  
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 **Backend:**  
-`Django` | `Django REST Framework` | `Flask` | `Pydantic`  
+`Django` • `Django REST Framework` • `Flask` • `Pydantic`
 
 **Frontend:**  
-`HTML` | `CSS` | `Tailwind CSS` | `React.js`  
+`HTML` • `CSS` • `Tailwind CSS` • `React.js`
 
 **Databases:**  
-`MySQL` | `SQLite` | `PostgreSQL` | `MongoDB (PyMongo)`  
+`MySQL` • `PostgreSQL` • `SQLite` • `MongoDB (PyMongo)`
 
 **Web Scraping:**  
-`BeautifulSoup` | `Selenium (with stealth & proxies)` | `Scrapy`  
+`BeautifulSoup` • `Selenium (stealth & proxies)` • `Scrapy`
 
-**Tools & Tech:**  
-`Git & GitHub Projects` | `VS Code` | `Postman` | `Excel` | `Ubuntu Linux`
-
----
-
-### 🧠 Real-World Projects
-
-#### 🔍 Web Scraping
-- 🛒 [**Amazon Scraper**](https://github.com/mamun700263/amazon_scrapper) *(🔥 In Progress)*  
-  Full-featured Amazon scraper built with Selenium, BeautifulSoup, proxy rotation, dynamic scrolling, and API/CSV/JSON exports.
-
-#### 🧑‍🏫 Full-Stack Platforms
-- 📚 [**Ghor School**](https://github.com/mamun700263/Online-School)  
-  Scalable full-stack online learning platform.  
-  - 🔗 [Frontend](https://github.com/mamun700263/Ghor-School) — HTML, CSS, Bootstrap, JavaScript  
-  - 🔗 [Backend](https://github.com/mamun700263/Online-School) — Django + DRF + PostgreSQL
+**Tools:**  
+`Git & GitHub Projects` • `Postman` • `VS Code` • `Excel` • `Ubuntu Linux`
 
 ---
 
-### 💻 Competitive Programming
+## 📦 Real-World Projects
 
-- ✅ Solved **1000+ problems** across:
+### 🛍️ [Amazon Scraper](https://github.com/mamun700263/amazon_scrapper) *(🔥 In Progress)*
+Full-featured scraper built with:
+- **Selenium + BeautifulSoup**
+- **Rotating Proxies & User-Agents**
+- **Dynamic Scrolling, XPath Targeting**
+- **Exports: CSV, JSON, REST API**
+
+### 📚 [Ghor School](https://github.com/mamun700263/Online-School)
+A full-stack online learning platform:
+- 🔗 [Frontend Repo](https://github.com/mamun700263/Ghor-School): HTML, CSS, Bootstrap, JS  
+- 🔗 [Backend Repo](https://github.com/mamun700263/Online-School): Django, DRF, PostgreSQL
+
+---
+
+## 🧠 Competitive Programming
+
+- ✅ Solved **1000+ problems** on:
   - [Codeforces](https://codeforces.com/profile/mamun700263)  
   - [CodeChef](https://www.codechef.com/users/mamun700263)  
   - [LeetCode](https://leetcode.com/u/mamun700263)  
   - [GeeksforGeeks](https://www.geeksforgeeks.org/user/mamun700263)  
 - 🥉 **3rd Place** — University Programming Contest  
-- 🧠 **ICPC Dhaka Regional 2024** — Competitor & Team Mentor
+- 🏆 **ICPC Dhaka Regional 2024** — Competitor & Team Mentor
 
 ---
 
-### 🏗️ Currently Building
-- 🧑‍🎓 A full university management system (Frontend in React + Backend in Django)
-- 🧠 Strong React fundamentals (Hooks, Router, Forms, API calls, UI polishing)
-- 💻 Mastery in Pydantic for structured backend validation
+## 🧱 Currently Building
+
+- 🚧 Full university management system — React frontend + Django backend  
+- 🔥 Advanced scraping bots (with stealth, proxies, and auto-crawlers)  
+- ⚛️ React mastery: Hooks, Router, Forms, Auth, API, UI polishing  
+- 🧪 Backend validation with Pydantic  
+- 📦 UI/UX system using Tailwind + ShadCN UI
 
 ---
 
-### 📫 Let’s Connect
+## 📫 Connect With Me
 
-- 🌐 [GitHub](https://github.com/mamun700263)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/md-abdullah-all-mamun)  
+- 🌐 [GitHub](https://github.com/mamun700263)  
 - 📧 mamun700263@gmail.com  
 
-> **"I don’t just code — I ship, lead, and level up daily."**
+---
+<p align="center">
+  <i>"Stay hungry. Stay humble. Build every day."</i>
+</p>
