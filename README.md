@@ -1,92 +1,48 @@
-#  [Md Abdullah All Mamun ](https://www.allmamun.com/) 
+# Hi, I'm Md Abdullah All Mamun
 
-## ⚙️ Backend Engineering  
-- **Languages:** Python, C/C++
-- **Frameworks:** Django, Django REST Framework (DRF), FastAPI  
-- **API Design:** RESTful architecture, JWT Auth, Pagination, Versioning  
-- **Asynchronous Systems:** Celery, AsyncIO, Background tasks, WebSockets  
-- **Caching & Performance:** Redis, Query optimization, Database indexing  
-- **Testing & Quality:** Pytest, Unit testing, Integration testing  
-- **Security:** Input sanitization, CSRF protection, authentication hardening  
-- **Architecture:** Modular design, Scalable structuring, Clean code practices  
+**Backend Engineer | Django & FastAPI Developer | Automation Builder**
 
----
+I build reliable APIs, asynchronous services, monitoring tools, and web automation systems. I work across the stack when needed, with a focus on clean architecture, practical security, and production-ready deployment.
 
-## 🕵️‍♂️ Web Scraping & Automation  
-- **Tools:** Playwright, Selenium, Scrapy, BeautifulSoup (BS4)  
-- **Anti-Bot Techniques:** Headless stealth, rotating proxies, human-like delays  
-- **Data Extraction:** Dynamic DOM handling, resilient selectors, infinite scroll parsing  
-- **Data Validation:** Pydantic models for structured outputs  
-- **Data Export:** CSV, JSON, Excel, Google Sheets, Database (PostgreSQL/MySQL)  
-- **Deployment:** Dockerized scrapers, rate-limiting, retry logic, task queuing  
+- 🌐 **Portfolio:** [allmamun.com](https://www.allmamun.com/)
+- 🏢 **Organization:** [TAVDEV](https://www.tavdev.com/)
+- 💼 **LinkedIn:** [Md Abdullah All Mamun](https://www.linkedin.com/in/md-abdullah-all-mamun)
+- ✉️ **Email:** [mamun700263@gmail.com](mailto:mamun700263@gmail.com)
 
----
+## Featured Projects
 
-## 🧠 Data Structures & Algorithms  
-- **Languages:** C++, Python  
-- **Core Topics:** Graphs, Trees, Dynamic Programming, Greedy Algorithms, Sorting/Searching  
-- **Problem Solving:** 1000+ DSA problems solved  
-- **Competitive Programming:** ICPC-trained, algorithmic precision & optimization mindset  
+| Project | What it does | Stack | Links |
+| --- | --- | --- | --- |
+| **Tavdev Monitor** | Monitors websites and APIs, tracks uptime and response status, and provides instant endpoint testing | FastAPI, Next.js, PostgreSQL, Redis, Docker | [Live](https://monitor.tavdev.com) · [Repository](https://github.com/mamun700263/Tavdev_tools) |
+| **Blood Bank** | Full-stack blood donation platform for donor profiles, donation history, emergency requests, search, and notifications | Django REST Framework, React, Tailwind CSS, PostgreSQL | [Live](https://blood-bank-delta-dun.vercel.app) · [Repository](https://github.com/mamun700263/blood_bank_trisha_pal) |
+| **Notification System** | Scheduled multi-channel notification service with retries, Celery tasks, Redis, and delivery status tracking | Django, DRF, Celery, Redis, PostgreSQL, Docker | [Repository](https://github.com/mamun700263/Notification_system) |
+| **University Backend** | Role-based university API for administrators, teachers, and students, including users, courses, grades, and semesters | Django, DRF, PostgreSQL | [Repository](https://github.com/mamun700263/University_backend) |
+| **Portfolio** | Developer portfolio and project showcase | Next.js, TypeScript | [Live](https://my-portfolio-gamma-pearl-o18ud7hhus.vercel.app) · [Repository](https://github.com/mamun700263/my_portfolio) |
 
----
+## Core Skills
 
-## 🧩 DevOps & CI/CD  
-- **Containerization:** Docker (Dockerfiles, images, containers, volumes)  
-- **Pipeline Setup:** GitHub Actions, pre-commit hooks (Black, Flake8, isort, mypy, bandit)  
-- **Version Control:** Git (branching, tagging, merging), GitHub, GitLab  
-- **Environment Management:** Virtualenv, Poetry, .env secrets, configuration control  
+- **Backend:** Python, Django, Django REST Framework, FastAPI
+- **APIs:** REST, JWT authentication, pagination, validation, role-based access
+- **Data:** PostgreSQL, MySQL, SQLite, SQLAlchemy, Django ORM
+- **Asynchronous Systems:** Celery, Redis, task scheduling, WebSockets
+- **Automation:** Playwright, Selenium, Scrapy, BeautifulSoup
+- **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS
+- **DevOps:** Docker, Docker Compose, GitHub Actions, Linux, Bash
+- **Quality:** pytest, Django TestCase, API testing, structured logging
+- **Languages:** Python, JavaScript, TypeScript, C/C++
 
----
+## What I Work On
 
-## 🧱 Database Systems  
-- **Relational Databases:** PostgreSQL, MySQL, Oracle, SQLite3  
-- **ORM:** Django ORM, SQLAlchemy  
-- **Queries:** Joins, Subqueries, Indexing, Views, Triggers, Sequences  
-- **Schema Design:** Normalization, one-to-many/many-to-many relationships  
+- Designing modular REST APIs and domain-focused backend services
+- Building scheduled jobs and retry-safe background workflows
+- Creating resilient scrapers and browser automation for dynamic websites
+- Connecting frontend applications to secure, documented APIs
+- Containerizing applications and simplifying local and production deployment
 
----
+## Connect
 
-## 🌐 Frontend Collaboration  
-- **Integration:** REST API consumption with React/Tailwind (collab-ready)  
-- **Knowledge:** JSON parsing, endpoint documentation, CORS handling  
-- **Team Projects:** Backend–Frontend integration via modular API endpoints  
+Open to backend engineering, API development, automation, and technically challenging software projects.
 
----
-
-## 🧰 Software Design & Architecture  
-- **Principles:** SOLID, DRY, KISS, Clean Architecture  
-- **Patterns:** Repository, Service, Factory, Dependency Injection  
-- **Documentation:** Swagger / OpenAPI, Postman collections  
-- **Logging & Monitoring:** Custom logging, structured error tracking  
-
----
-
-## 🔒 Information Security & Governance  
-- Data handling policies and access control  
-- Compliance understanding: UK Cybersecurity & GDPR basics  
-- Secure software development principles  
-
----
-
-## 💼 Project Management & Execution Discipline  
-- **Tools:** Notion, Google Calendar, Super Productivity  
-- **Methodology:** Agile task breakdown, sprint planning, zero-waste execution  
-- **Mindset:** Precision under pressure, deadline execution discipline  
-
----
-
-## 🧠 Additional Technical Arsenal  
-- **Data Processing:** Pandas, NumPy  
-- **PDF/Report Generation:** ReportLab, WeasyPrint  
-- **Cloud & Hosting:** Docker Compose, VPS deployment  
-- **OS & Environments:** Linux (Ubuntu), Bash scripting  
-
----
-
-### 📫 Connect With Me  
-- **LinkedIn:** [MD ABDULLAH ALL MAMUN](http://www.linkedin.com/in/md-abdullah-all-mamun)  
-- **Email:** [mamun700263@gmail.com](mamun700263@gmail.com)  
-<!-- - **Portfolio:** [tavdev.com](#) _(coming soon)_   -->
-
----
-
+- [GitHub](https://github.com/mamun700263)
+- [LinkedIn](https://www.linkedin.com/in/md-abdullah-all-mamun)
+- [Email](mailto:mamun700263@gmail.com)
