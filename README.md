@@ -1,92 +1,58 @@
-#  [Md Abdullah All Mamun ](https://www.allmamun.com/) 
+# Md Abdullah All Mamun
 
-## ⚙️ Backend Engineering  
-- **Languages:** Python, C/C++
-- **Frameworks:** Django, Django REST Framework (DRF), FastAPI  
-- **API Design:** RESTful architecture, JWT Auth, Pagination, Versioning  
-- **Asynchronous Systems:** Celery, AsyncIO, Background tasks, WebSockets  
-- **Caching & Performance:** Redis, Query optimization, Database indexing  
-- **Testing & Quality:** Pytest, Unit testing, Integration testing  
-- **Security:** Input sanitization, CSRF protection, authentication hardening  
-- **Architecture:** Modular design, Scalable structuring, Clean code practices  
+**Backend Developer (Python & C++)**
 
----
+Computer Science undergraduate at [Wrexham University](https://www.wrexham.ac.uk/) building reliable backend systems with Python, FastAPI, Django, PostgreSQL, Redis, and Celery. I focus on concurrency-safe design, API performance, automated testing, and maintainable software delivery.
 
-## 🕵️‍♂️ Web Scraping & Automation  
-- **Tools:** Playwright, Selenium, Scrapy, BeautifulSoup (BS4)  
-- **Anti-Bot Techniques:** Headless stealth, rotating proxies, human-like delays  
-- **Data Extraction:** Dynamic DOM handling, resilient selectors, infinite scroll parsing  
-- **Data Validation:** Pydantic models for structured outputs  
-- **Data Export:** CSV, JSON, Excel, Google Sheets, Database (PostgreSQL/MySQL)  
-- **Deployment:** Dockerized scrapers, rate-limiting, retry logic, task queuing  
+Currently seeking a **Summer 2027 Software Engineering Internship**.
 
----
+[Portfolio](https://www.allmamun.com/) · [LinkedIn](https://www.linkedin.com/in/md-abdullah-all-mamun) · [GitHub](https://github.com/mamun700263) · [Email](mailto:mamun700263@gmail.com)
 
-## 🧠 Data Structures & Algorithms  
-- **Languages:** C++, Python  
-- **Core Topics:** Graphs, Trees, Dynamic Programming, Greedy Algorithms, Sorting/Searching  
-- **Problem Solving:** 1000+ DSA problems solved  
-- **Competitive Programming:** ICPC-trained, algorithmic precision & optimization mindset  
+## Technical Skills
 
----
+| Area | Technologies |
+| --- | --- |
+| Languages | Python, C++, SQL, Bash |
+| Backend | Django, Django REST Framework, FastAPI, Celery, REST APIs, JWT authentication |
+| Data & infrastructure | PostgreSQL, MySQL, Redis, Alembic |
+| Testing & documentation | Automated testing, Swagger, OpenAPI |
+| DevOps | Docker, Docker Compose, Git, Linux, GitHub Actions |
+| Automation | Scrapy, Playwright, Selenium, BeautifulSoup |
 
-## 🧩 DevOps & CI/CD  
-- **Containerization:** Docker (Dockerfiles, images, containers, volumes)  
-- **Pipeline Setup:** GitHub Actions, pre-commit hooks (Black, Flake8, isort, mypy, bandit)  
-- **Version Control:** Git (branching, tagging, merging), GitHub, GitLab  
-- **Environment Management:** Virtualenv, Poetry, .env secrets, configuration control  
+## Selected Projects
 
----
+### TavDev Monitor — Uptime Monitoring Platform
 
-## 🧱 Database Systems  
-- **Relational Databases:** PostgreSQL, MySQL, Oracle, SQLite3  
-- **ORM:** Django ORM, SQLAlchemy  
-- **Queries:** Joins, Subqueries, Indexing, Views, Triggers, Sequences  
-- **Schema Design:** Normalization, one-to-many/many-to-many relationships  
+Full-stack uptime monitoring platform built with FastAPI, PostgreSQL, Redis, Celery, and Next.js.
 
----
+- Supports configurable health checks across distributed infrastructure.
+- Engineered a concurrency-safe quota system with atomic database updates and check constraints, preventing quota overselling under simultaneous traffic.
+- Implemented JWT authentication, email verification, password hashing, account lockout, and role-based access control.
+- Designed normalized PostgreSQL schemas with Alembic migrations and added Redis caching for fast live-status reads.
+- Containerized the application with Docker Compose.
 
-## 🌐 Frontend Collaboration  
-- **Integration:** REST API consumption with React/Tailwind (collab-ready)  
-- **Knowledge:** JSON parsing, endpoint documentation, CORS handling  
-- **Team Projects:** Backend–Frontend integration via modular API endpoints  
+### NarayanPur High School — Student Management Platform
 
----
+Role-based school management platform built with Django, Django REST Framework, PostgreSQL, and Redis, serving **500+ active users**.
 
-## 🧰 Software Design & Architecture  
-- **Principles:** SOLID, DRY, KISS, Clean Architecture  
-- **Patterns:** Repository, Service, Factory, Dependency Injection  
-- **Documentation:** Swagger / OpenAPI, Postman collections  
-- **Logging & Monitoring:** Custom logging, structured error tracking  
+- Implemented scoped JWT access control for platform users.
+- Built an examination and ranking engine that aggregates multi-class subject results, performs automatic calculations, and generates PDF result certificates.
+- Lead a five-person development team for the platform’s second iteration through task allocation, code reviews, mentoring, and technical delivery.
+- Improved high-traffic endpoints with Redis caching and query optimization.
+- Added automated tests, custom automation scripts, and Swagger/OpenAPI documentation.
 
----
+## Competitive Programming
 
-## 🔒 Information Security & Governance  
-- Data handling policies and access control  
-- Compliance understanding: UK Cybersecurity & GDPR basics  
-- Secure software development principles  
+- **ICPC Dhaka Regional 2024 participant**, selected as an official university team representative.
+- Solved **1,100+ algorithmic problems** across GeeksforGeeks, LeetCode, Codeforces, and CodeChef.
 
----
+## Education
 
-## 💼 Project Management & Execution Discipline  
-- **Tools:** Notion, Google Calendar, Super Productivity  
-- **Methodology:** Agile task breakdown, sprint planning, zero-waste execution  
-- **Mindset:** Precision under pressure, deadline execution discipline  
+**BSc (Hons) Computer Science — Wrexham University**  
+Expected graduation: **June 2028** · Penultimate year during Summer 2027
 
----
+## Contact
 
-## 🧠 Additional Technical Arsenal  
-- **Data Processing:** Pandas, NumPy  
-- **PDF/Report Generation:** ReportLab, WeasyPrint  
-- **Cloud & Hosting:** Docker Compose, VPS deployment  
-- **OS & Environments:** Linux (Ubuntu), Bash scripting  
-
----
-
-### 📫 Connect With Me  
-- **LinkedIn:** [MD ABDULLAH ALL MAMUN](http://www.linkedin.com/in/md-abdullah-all-mamun)  
-- **Email:** [mamun700263@gmail.com](mamun700263@gmail.com)  
-<!-- - **Portfolio:** [tavdev.com](#) _(coming soon)_   -->
-
----
-
+- Email: [mamun700263@gmail.com](mailto:mamun700263@gmail.com)
+- LinkedIn: [md-abdullah-all-mamun](https://www.linkedin.com/in/md-abdullah-all-mamun)
+- Portfolio: [allmamun.com](https://www.allmamun.com/)
